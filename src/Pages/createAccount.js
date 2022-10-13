@@ -195,10 +195,10 @@ const CreateAccount = () => {
           </div>
 
           <div className="mb-3 form-check">
-            <input  class="form-check-input check" 
+            <input
+              className="form-check-input check"
               onClick={() => setIsTemrs(!isTemrs)}
               type="checkbox"
-              className="form-check-input check "
               id="exampleCheck1"
             />
             <label className="form-check-label">
