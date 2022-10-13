@@ -1,0 +1,93 @@
+select:hover{
+  cursor: pointer;
+}
+
+.logo-create-account {
+  margin: 40px;
+}
+.title-create-account h1 {
+  font-size: 30px;
+  color: #673ae5;
+  margin-bottom: 20px;
+}
+
+.input-password-create-user,
+.input-email-create-user {
+  position: relative;
+}
+
+.eye-create-user,
+.lock-create-user {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+.eye-create-user,
+.lock-create-user:hover {
+  cursor: pointer;
+}
+
+.dropdown-content {
+  margin: 30px 0px;
+}
+
+.dropdown-content select {
+  border: none;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border-radius: 50px;
+  width: 100%;
+  height: 50px;
+  color: #673ae5;
+  font-weight: bold;
+  padding: 0px 20px;
+  border-right: 8px solid transparent;
+}
+
+/* .arrow{
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  color: #673ae5;
+  font-weight: bold;
+} */
+
+.items-dropdown {
+  color: #673ae5;
+  font-weight: bold;
+  border-radius: 50px;
+}
+
+.button-login-create-user {
+  text-align: center;
+}
+
+.button-login-create-user button {
+  width: 100%;
+  height: auto;
+  border-radius: 50px;
+  background-color: #673ae5;
+  margin: 15px 0px 15px 0px;
+  opacity: 0.5;
+}
+
+.button-login-create-user button:hover {
+  opacity: 1;
+  background-color: #673ae5;
+}
+
+.footer {
+  text-align: center;
+}
+
+.check:hover {
+  color: #673ae5;
+  background-color: #673ae5;
+  cursor: pointer;
+  
+}
+
+.check{
+  border-radius: 80%;
+  border: 3px #673ae5 solid;
+}

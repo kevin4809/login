@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "kevinedk33@gmail.com",
+      "password": 1234567,
+      "idiom": "spanish",
+      "country": "Colombia"
+    },
+    {
+      "email": "kevinedk33@gmail.com",
+      "password": "asd",
+      "idiom": "Spanish",
+      "country": "Colombia",
+      "id": 2
+    }
+  ],
+  "countries": [
+    {
+      "id": 1,
+      "country": "United States"
+    },
+    {
+      "id": 2,
+      "country": "Colombia"
+    },
+    {
+      "id": 3,
+      "country": "Germany"
+    },
+    {
+      "id": 4,
+      "country": "Argentina"
+    }
+  ]
+}
